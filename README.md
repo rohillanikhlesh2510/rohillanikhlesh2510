@@ -1,5 +1,23 @@
-# 💫 About Me:
-I am passionate about engineering scalable software solutions, building meaningful digital products, and exploring emerging technologies. My focus is on strengthening my technical expertise, developing innovative applications, and transforming ideas into practical solutions. I actively seek opportunities to collaborate with like-minded developers, contribute to open-source initiatives, and participate in challenging projects that encourage continuous growth. I believe in knowledge sharing, collaborative problem-solving, and writing clean, maintainable code. I am continuously expanding my expertise in software development, modern web technologies, and computer science. Always open to meaningful collaborations, technical discussions, and opportunities to create something impactful.
+# 💫 About Me
+
+I am a Computer Science and Engineering student with a strong passion for software engineering, full-stack development, and building scalable, user-centric digital products. I enjoy translating complex ideas into practical applications by combining problem-solving, modern technologies, and thoughtful engineering practices.
+
+My development journey focuses on designing and building real-world applications, including:
+
+- **BharatGram** – A social media platform featuring short-form videos, real-time communication, live streaming, and AI-powered assistance.
+- **Notewise AI** – An AI-powered learning and productivity platform designed to transform notes and documents into intelligent, interactive learning experiences.
+- **ShareBite** – A community-driven food-sharing platform connecting food donors, recipients, and volunteers to reduce food waste and support people in need.
+- **CropGuard** – An innovative technology-driven project focused on agricultural monitoring and crop protection.
+
+My technical interests include **Data Structures & Algorithms, Full-Stack Development, Artificial Intelligence, Machine Learning, Database Management, and Cloud-Based Application Development.**
+
+I work with technologies such as **JavaScript, Python, React.js, Node.js, Express.js, React Native, Supabase, PostgreSQL, and Git/GitHub**, while continuously exploring emerging tools and development practices.
+
+I believe in writing clean, maintainable code, building performance-oriented applications, and approaching engineering challenges with a problem-solving mindset. Beyond individual development, I value collaboration, open-source contributions, continuous learning, and knowledge sharing.
+
+**My objective is to engineer impactful software solutions, contribute to meaningful projects, and continuously grow as a software engineer.**
+
+📌 Open to collaborating on innovative projects, open-source contributions, and challenging software engineering opportunities.
 
 
 ## 🌐 Socials:
