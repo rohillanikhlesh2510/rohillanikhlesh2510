@@ -7,7 +7,7 @@ My development journey focuses on designing and building real-world applications
 - **BharatGram** – A social media platform featuring short-form videos, real-time communication, live streaming, and AI-powered assistance.
 - **Notewise AI** – An AI-powered learning and productivity platform designed to transform notes and documents into intelligent, interactive learning experiences.
 - **ShareBite** – A community-driven food-sharing platform connecting food donors, recipients, and volunteers to reduce food waste and support people in need.
-- **CropGuard** – An innovative technology-driven project focused on agricultural monitoring and crop protection.
+
 
 My technical interests include **Data Structures & Algorithms, Full-Stack Development, Artificial Intelligence, Machine Learning, Database Management, and Cloud-Based Application Development.**
 
