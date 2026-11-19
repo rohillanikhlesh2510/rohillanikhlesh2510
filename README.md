@@ -1,24 +1,65 @@
 # 💫 About Me
 
-I am a Computer Science and Engineering student with a strong passion for software engineering, full-stack development, and building scalable, user-centric digital products. I enjoy translating complex ideas into practical applications by combining problem-solving, modern technologies, and thoughtful engineering practices.
+I am a **Computer Science and Engineering student** passionate about software engineering, full-stack development, and building scalable, impactful digital solutions. I enjoy transforming complex ideas into practical applications through structured problem-solving, modern technologies, and thoughtful engineering.
 
-My development journey focuses on designing and building real-world applications, including:
+My primary focus is on developing real-world software products, exploring emerging technologies, and strengthening my expertise across the software development lifecycle — from designing intuitive user interfaces to engineering reliable backend systems.
 
-- **BharatGram** – A social media platform featuring short-form videos, real-time communication, live streaming, and AI-powered assistance.
-- **Notewise AI** – An AI-powered learning and productivity platform designed to transform notes and documents into intelligent, interactive learning experiences.
-- **ShareBite** – A community-driven food-sharing platform connecting food donors, recipients, and volunteers to reduce food waste and support people in need.
+### 🚀 Featured Projects
 
+- **BharatGram** — A next-generation social networking platform integrating short-form video sharing, real-time communication, live streaming, and AI-powered experiences into a unified digital ecosystem.
 
-My technical interests include **Data Structures & Algorithms, Full-Stack Development, Artificial Intelligence, Machine Learning, Database Management, and Cloud-Based Application Development.**
+- **Notewise AI** — An AI-powered learning and productivity platform that transforms notes and documents into intelligent, interactive learning experiences.
 
-I work with technologies such as **JavaScript, Python, React.js, Node.js, Express.js, React Native, Supabase, PostgreSQL, and Git/GitHub**, while continuously exploring emerging tools and development practices.
+- **ShareBite** — A community-driven food-sharing platform connecting donors, recipients, and volunteers to reduce food waste and make food distribution more accessible.
 
-I believe in writing clean, maintainable code, building performance-oriented applications, and approaching engineering challenges with a problem-solving mindset. Beyond individual development, I value collaboration, open-source contributions, continuous learning, and knowledge sharing.
+### 💻 Technical Interests
 
-**My objective is to engineer impactful software solutions, contribute to meaningful projects, and continuously grow as a software engineer.**
+My areas of interest include:
 
-📌 Open to collaborating on innovative projects, open-source contributions, and challenging software engineering opportunities.
+- Data Structures & Algorithms
+- Full-Stack Software Development
+- Artificial Intelligence & Machine Learning
+- Database Design & Management
+- Cloud-Based Application Development
+- Software Architecture & System Design
 
+### 🛠️ Technologies & Tools
+
+I work with a modern technology stack to develop interactive applications, scalable backend services, and data-driven solutions.
+
+**Programming Languages:** JavaScript, Python
+
+**Frontend Development:** React.js, React Native, Vite
+
+**Backend Development:** Node.js, Express.js, REST APIs
+
+**Databases & Storage:** PostgreSQL, Supabase
+
+**Development Tools:** Git, GitHub, VS Code
+
+**Additional Interests:** Machine Learning, AI Integration, Cloud Deployment, Real-Time Communication
+
+### 🎯 Engineering Philosophy
+
+I believe great software engineering goes beyond writing code. It involves understanding problems, designing effective solutions, building maintainable systems, optimizing performance, and continuously improving through experimentation and feedback.
+
+I value clean code, scalable architecture, collaborative development, technical curiosity, and a commitment to continuous learning.
+
+### 🌱 Current Focus
+
+- Strengthening problem-solving skills through Data Structures & Algorithms.
+- Building production-oriented full-stack applications.
+- Exploring practical applications of Artificial Intelligence and Machine Learning.
+- Improving backend architecture, API design, and database optimization.
+- Learning modern software engineering practices and scalable system design.
+
+### 🤝 Let's Connect & Collaborate
+
+I am always interested in connecting with developers, exploring innovative ideas, contributing to meaningful open-source projects, and collaborating on challenging engineering initiatives.
+
+**My objective is to grow as a software engineer by building technology that solves real-world problems and creates meaningful impact.**
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhlesh-rohilla-82000a381/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohillanikhlesh7@gmail.com) 
