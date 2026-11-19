@@ -27,13 +27,13 @@ My areas of interest include:
 
 I work with a modern technology stack to develop interactive applications, scalable backend services, and data-driven solutions.
 
-**Programming Languages:** JavaScript, Python
+**Programming Languages:** JavaScript, Python, Java
 
 **Frontend Development:** React.js, React Native, Vite
 
 **Backend Development:** Node.js, Express.js, REST APIs
 
-**Databases & Storage:** PostgreSQL, Supabase
+**Databases & Storage:** PostgreSQL, Supabase, Firebase
 
 **Development Tools:** Git, GitHub, VS Code
 
