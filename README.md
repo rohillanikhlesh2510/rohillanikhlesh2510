@@ -7,8 +7,8 @@ My primary focus is on developing real-world software products, exploring emergi
 ### 🚀 Featured Projects
 - **BharatGram** — A next-generation, feature-rich social networking ecosystem designed to redefine digital connectivity by bringing people, content, and communities together on a unified platform. It combines immersive short-form video sharing, dynamic content feeds, real-time messaging, voice and video calling, interactive live streaming, trending updates, and AI-powered experiences to deliver a seamless, engaging, and intelligent social media experience. Built with a focus on scalability, performance, innovation, and user engagement, BharatGram aims to create a connected digital space that empowers creators, strengthens communities, and transforms the way people communicate, share, and interact online.
 
-- **Notewise AI** — An AI-powered learning and productivity platform that transforms notes and documents into intelligent, interactive learning experiences.
-
+- **Notewise AI** — An intelligent, AI-powered learning and productivity ecosystem designed to transform the way users interact with knowledge, notes, and documents. It leverages advanced AI and Retrieval-Augmented Generation (RAG) technology to convert static learning materials into dynamic, context-aware, and interactive experiences. Supporting multiple document formats, including PDF, DOCX, PPTX, TXT, and XLSX, the platform enables users to upload documents, ask natural-language questions, generate contextual answers, extract key insights, and simplify complex information through intelligent document understanding. Built with a focus on accuracy, usability, scalability, and personalized learning, Notewise AI aims to bridge the gap between information and understanding by making knowledge more accessible, searchable, and actionable.
+- 
 - **ShareBite** — A community-driven food-sharing platform connecting donors, recipients, and volunteers to reduce food waste and make food distribution more accessible.
 
 ### 💻 Technical Interests
