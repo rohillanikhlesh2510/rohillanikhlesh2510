@@ -16,13 +16,17 @@ My primary focus is on developing real-world software products, exploring emergi
 
 My areas of interest include:
 
-- Data Structures & Algorithms
-- Full-Stack Software Development
-- Artificial Intelligence & Machine Learning
-- Database Design & Management
-- Cloud-Based Application Development
-- Software Architecture & System Design
+Data Structures & Algorithms — Strengthening problem-solving abilities, computational thinking, and algorithmic efficiency.
 
+Full-Stack Software Development — Designing and developing end-to-end web applications with modern frontend and backend technologies.
+
+Artificial Intelligence & Machine Learning — Exploring intelligent systems, predictive modeling, LLMs, and AI-driven application development.
+
+Database Design & Management — Building structured, optimized, and scalable database architectures with efficient data management.
+
+Cloud & Distributed Application Development — Developing scalable, reliable, and high-performance applications using modern cloud technologies and deployment platforms.
+
+Software Architecture & System Design — Understanding architectural patterns, designing maintainable systems, and engineering applications for scalability and long-term reliability.
 ### 🛠️ Technologies & Tools
 
 I work with a modern technology stack to develop interactive applications, scalable backend services, and data-driven solutions.
