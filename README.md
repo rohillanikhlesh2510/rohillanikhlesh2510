@@ -9,8 +9,9 @@ My primary focus is on developing real-world software products, exploring emergi
 
 - **Notewise AI** — An intelligent, AI-powered learning and productivity ecosystem designed to transform the way users interact with knowledge, notes, and documents. It leverages advanced AI and Retrieval-Augmented Generation (RAG) technology to convert static learning materials into dynamic, context-aware, and interactive experiences. Supporting multiple document formats, including PDF, DOCX, PPTX, TXT, and XLSX, the platform enables users to upload documents, ask natural-language questions, generate contextual answers, extract key insights, and simplify complex information through intelligent document understanding. Built with a focus on accuracy, usability, scalability, and personalized learning, Notewise AI aims to bridge the gap between information and understanding by making knowledge more accessible, searchable, and actionable.
 - 
-- **ShareBite** — A community-driven food-sharing platform connecting donors, recipients, and volunteers to reduce food waste and make food distribution more accessible.
+- **ShareBite** — A technology-driven, community-centric food-sharing ecosystem designed to bridge the gap between surplus food and people in need. The platform connects food donors, recipients, volunteers, and delivery partners through a unified digital interface, enabling seamless food donation, real-time coordination, and efficient distribution of surplus meals. By integrating location-based discovery, interactive maps, volunteer coordination, donation management, and nearby NGO connectivity, ShareBite simplifies the process of identifying, sharing, and delivering available food to underserved communities. Built with a focus on accessibility, transparency, social impact, and operational efficiency, ShareBite aims to minimize food wastage, encourage community participation, and contribute towards a more sustainable and hunger-free society.
 
+  
 ### 💻 Technical Interests
 
 My areas of interest include:
