@@ -5,8 +5,7 @@ I am a **Computer Science and Engineering student** passionate about software en
 My primary focus is on developing real-world software products, exploring emerging technologies, and strengthening my expertise across the software development lifecycle — from designing intuitive user interfaces to engineering reliable backend systems.
 
 ### 🚀 Featured Projects
-
-- **BharatGram** — A next-generation social networking platform integrating short-form video sharing, real-time communication, live streaming, and AI-powered experiences into a unified digital ecosystem.
+- **BharatGram** — A next-generation, feature-rich social networking ecosystem designed to redefine digital connectivity by bringing people, content, and communities together on a unified platform. It combines immersive short-form video sharing, dynamic content feeds, real-time messaging, voice and video calling, interactive live streaming, trending updates, and AI-powered experiences to deliver a seamless, engaging, and intelligent social media experience. Built with a focus on scalability, performance, innovation, and user engagement, BharatGram aims to create a connected digital space that empowers creators, strengthens communities, and transforms the way people communicate, share, and interact online.
 
 - **Notewise AI** — An AI-powered learning and productivity platform that transforms notes and documents into intelligent, interactive learning experiences.
 
