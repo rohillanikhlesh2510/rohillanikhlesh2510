@@ -27,7 +27,6 @@ Database Design & Management — Building structured, optimized, and scalable da
 Cloud & Distributed Application Development — Developing scalable, reliable, and high-performance applications using modern cloud technologies and deployment platforms.
 
 Software Architecture & System Design — Understanding architectural patterns, designing maintainable systems, and engineering applications for scalability and long-term reliability.
-### 🛠️ Technologies & Tools
 
 ## 🛠️ Technical Skills & Technologies
 
