@@ -29,19 +29,31 @@ Cloud & Distributed Application Development — Developing scalable, reliable, a
 Software Architecture & System Design — Understanding architectural patterns, designing maintainable systems, and engineering applications for scalability and long-term reliability.
 ### 🛠️ Technologies & Tools
 
-I work with a modern technology stack to develop interactive applications, scalable backend services, and data-driven solutions.
+## 🛠️ Technical Skills & Technologies
 
-**Programming Languages:** JavaScript, Python, Java
+I leverage a modern and versatile technology stack to design, develop, and deploy scalable applications, robust backend systems, and intuitive user experiences. My technical expertise spans full-stack development, database management, API integration, and emerging technologies, with a strong focus on building efficient, maintainable, and performance-driven software solutions.
 
-**Frontend Development:** React.js, React Native, Vite
+**Programming Languages**
+- JavaScript | Python | Java
 
-**Backend Development:** Node.js, Express.js, REST APIs
+**Frontend & Mobile Development**
+- React.js | React Native | Vite
 
-**Databases & Storage:** PostgreSQL, Supabase, Firebase
+**Backend & API Development**
+- Node.js | Express.js | RESTful APIs
 
-**Development Tools:** Git, GitHub, VS Code
+**Databases & Cloud Storage**
+- PostgreSQL | Supabase | Firebase
 
-**Additional Interests:** Machine Learning, AI Integration, Cloud Deployment, Real-Time Communication
+**Development & Version Control**
+- Git | GitHub | Visual Studio Code
+
+**Emerging Technologies & Core Interests**
+- Artificial Intelligence & Machine Learning
+- AI-Powered Application Integration
+- Cloud Deployment & Infrastructure
+- Real-Time Communication Systems
+- Scalable Software Architecture
 
 ### 🎯 Engineering Philosophy
 
