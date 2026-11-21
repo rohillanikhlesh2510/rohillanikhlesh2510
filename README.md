@@ -70,10 +70,9 @@ I value clean code, scalable architecture, collaborative development, technical 
 
 ### 🤝 Let's Connect & Collaborate
 
-I am always interested in connecting with developers, exploring innovative ideas, contributing to meaningful open-source projects, and collaborating on challenging engineering initiatives.
+I am always eager to connect with fellow developers, explore innovative ideas, contribute to impactful open-source projects, and collaborate on challenging engineering initiatives.
 
-**My objective is to grow as a software engineer by building technology that solves real-world problems and creates meaningful impact.**
-
+**My goal is to continuously grow as a software engineer by building innovative, scalable, and meaningful technology solutions that address real-world challenges and create a lasting impact.**
 ---
 
 ## 🌐 Socials:
