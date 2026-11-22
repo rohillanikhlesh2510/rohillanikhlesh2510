@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me 
 
 I am a **Computer Science and Engineering student** passionate about software engineering, full-stack development, and building scalable, impactful digital solutions. I enjoy transforming complex ideas into practical applications through structured problem-solving, modern technologies, and thoughtful engineering.
 
