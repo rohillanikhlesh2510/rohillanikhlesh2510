@@ -1,4 +1,4 @@
-             # 👨‍💻 Nikhlesh Rohilla | Software Engineer in Progress
+   # 👨‍💻 Nikhlesh Rohilla | Software Engineer in Progress
 
 <p align="center">
   <b>Computer Science & Engineering Student | Full-Stack Developer | AI/ML Enthusiast</b>
