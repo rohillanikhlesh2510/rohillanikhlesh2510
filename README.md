@@ -20,7 +20,7 @@ I am particularly interested in engineering reliable backend systems, developing
 
 ## 🚀 Featured Projects
 
-### 1. 🇮🇳 BharatGram
+### 1. BharatGram - India's Own Social Media Platform
 **A Next-Generation Social Networking Ecosystem**
 
 BharatGram is a feature-rich social networking platform designed to bring people, content, and communities together in one connected digital ecosystem.
