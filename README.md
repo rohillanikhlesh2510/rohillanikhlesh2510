@@ -36,6 +36,8 @@ BharatGram is a feature-rich social networking platform designed to bring people
 
 Built with an emphasis on scalability, performance, and user engagement, BharatGram aims to create a seamless digital environment for creators and communities.
 
+🌐 **Live Website:** [bharatgram.live](https://bharatgram.live)
+
 ### 2. 🤖 NoteWise AI
 **AI-Powered Intelligent Document & Learning Assistant**
 
