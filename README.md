@@ -14,10 +14,11 @@
 
 I am a **Computer Science and Engineering student** passionate about software engineering, full-stack development, and building scalable, user-centric digital solutions.
 
-I enjoy transforming ideas into practical applications by combining problem-solving, modern technologies, and thoughtful engineering. My development journey focuses on building real-world products, exploring emerging technologies, and continuously strengthening my technical expertise.
+I enjoy transforming innovative ideas into practical applications through problem-solving, modern technologies, and thoughtful engineering. My focus is on developing real-world products, exploring emerging technologies, and continuously strengthening my technical expertise.
 
-I am particularly interested in engineering reliable backend systems, developing intuitive user interfaces, integrating AI-powered capabilities, and designing applications that deliver meaningful real-world impact.
+I am particularly interested in designing reliable backend systems, developing intuitive user interfaces, integrating AI-powered capabilities, and engineering scalable applications that solve real-world problems and create meaningful impact.
 
+I believe in continuous learning, writing clean and maintainable code, and building technology that makes a difference.
 ## 🚀 Featured Projects
 
 ### 1. BharatGram - India's Own Social Media Platform
