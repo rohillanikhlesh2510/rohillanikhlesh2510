@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-I am a **Computer Science and Engineering student** passionate about software engineering, full-stack development, and building scalable, user-centric digital solutions.
+I am a **Computer Science and Engineering student** who is passionate about software engineering, full-stack development, and building scalable, user-centric digital solutions.
 
 I enjoy transforming innovative ideas into practical applications through problem-solving, modern technologies, and thoughtful engineering. My focus is on developing real-world products, exploring emerging technologies, and continuously strengthening my technical expertise.
 
