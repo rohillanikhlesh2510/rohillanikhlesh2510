@@ -1,207 +1,163 @@
-   # 👨‍💻 Nikhlesh Rohilla | Software Engineer in Progress
-
+<h1 align="center">Hi, I'm Nikhlesh Rohilla 👋</h1>
+ 
 <p align="center">
-  <b>Computer Science & Engineering Student | Full-Stack Developer | AI/ML Enthusiast</b>
+  <b>Computer Science & Engineering Student · Full-Stack Developer · AI/ML Enthusiast</b>
 </p>
-
 <p align="center">
-  Building meaningful digital products through code, creativity, and continuous learning.
+  I build practical, scalable products — from social platforms to AI assistants — and I'm always learning something new.
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhlesh-rohilla-82000a381/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rohillanikhlesh7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://bharatgram.live">
+    <img src="https://img.shields.io/badge/BharatGram-Live-FF6B00?style=for-the-badge" alt="BharatGram"/>
+  </a>
+</p>
 ---
-
+ 
 ## 💫 About Me
-
-I am a **Computer Science and Engineering student** who is passionate about software engineering, full-stack development, and building scalable, user-centric digital solutions.
-
-I enjoy transforming innovative ideas into practical applications through problem-solving, modern technologies, and thoughtful engineering. My focus is on developing real-world products, exploring emerging technologies, and continuously strengthening my technical expertise.
-
-I am particularly interested in designing reliable backend systems, developing intuitive user interfaces, integrating AI-powered capabilities, and engineering scalable applications that solve real-world problems and create meaningful impact.
-
-I believe in continuous learning, writing clean and maintainable code, and building technology that makes a difference.
+ 
+I'm a Computer Science & Engineering student who loves turning ideas into real, working products. I enjoy the full journey: designing clean UIs, building reliable backends, and adding AI-powered features that make apps genuinely useful.
+ 
+- 🔭 Currently building production-oriented full-stack apps
+- 🧩 Sharpening my problem-solving with Data Structures & Algorithms
+- 🤖 Exploring practical uses of AI, LLMs and RAG
+- 🏗️ Learning scalable system design and backend architecture
+---
+ 
 ## 🚀 Featured Projects
-
-### 1. BharatGram - India's Own Social Media Platform
-**A Next-Generation Social Networking Ecosystem**
-
-BharatGram is a feature-rich social networking platform designed to bring people, content, and communities together in one connected digital ecosystem.
-
-**Key Features:**
-- Dynamic social feeds and content sharing.
-- Short-form video and reels experience.
-- Real-time messaging and notifications.
-- Voice and video calling.
-- Interactive live streaming.
-- Trending content and community engagement.
-- AI-powered experiences and assistance.
-
-Built with an emphasis on scalability, performance, and user engagement, BharatGram aims to create a seamless digital environment for creators and communities.
-
-🌐 **Live Website:** [bharatgram.live](https://bharatgram.live)
-
-### 2. 🤖 NoteWise AI
-**AI-Powered Intelligent Document & Learning Assistant**
-
-NoteWise AI is an intelligent learning and productivity platform that transforms static documents into interactive knowledge experiences using Artificial Intelligence and Retrieval-Augmented Generation (RAG).
-
-**Key Features:**
-- Multi-format document support: PDF, DOCX, PPTX, TXT, and XLSX.
-- Natural-language document conversations.
-- Context-aware AI-generated answers.
-- Intelligent information extraction.
-- Document-based question answering.
-- Simplified understanding of complex information.
-
-The platform focuses on making information more accessible, searchable, and actionable through intelligent document processing.
-
-### 3. 🍱 ShareBite
-**Community-Driven Food Sharing & Redistribution Platform**
-
-ShareBite is a technology-driven food-sharing ecosystem connecting food donors, recipients, NGOs, volunteers, and delivery partners to reduce food waste and improve food accessibility.
-
-**Key Features:**
-- Food donation and surplus food management.
-- Location-based food discovery.
-- Interactive maps and nearby NGO connectivity.
-- Volunteer and delivery partner coordination.
-- Real-time distribution management.
-- Community-driven food redistribution.
-
-ShareBite aims to encourage sustainable practices, strengthen community participation, and contribute towards reducing food wastage and hunger.
-
+ 
+### 🇮🇳 [BharatGram](https://bharatgram.live) — India's Own Social Media Platform
+A feature-rich social network that brings people, content and communities together in one place.
+ 
+- 📰 Dynamic feeds and content sharing
+- 🎬 Short-form videos and reels
+- 💬 Real-time messaging and notifications
+- 📞 Voice and video calling
+- 🔴 Interactive live streaming
+- 🤖 AI-powered assistance
+🌐 **Live:** [bharatgram.live](https://bharatgram.live)
+ 
 ---
-
-## 💻 Technical Interests
-
-I am continuously exploring and developing my expertise in the following areas:
-
-- **Data Structures & Algorithms:** Problem-solving, computational thinking, and algorithmic optimization.
-- **Full-Stack Development:** Building complete web applications and scalable digital products.
-- **Artificial Intelligence & Machine Learning:** Exploring intelligent systems, predictive models, LLMs, and AI-powered applications.
-- **Database Engineering:** Database architecture, optimization, and efficient data management.
-- **Cloud & Distributed Systems:** Scalable application development, deployment, and infrastructure.
-- **Software Architecture & System Design:** Designing maintainable, reliable, and scalable software systems.
-
-## 🛠️ Technical Skills & Technologies
-
-I work with a modern technology stack to develop interactive applications, scalable backend services, and data-driven solutions.
-
-**Programming Languages**
-- JavaScript | Python | Java
-
-**Frontend & Mobile Development**
-- React.js | React Native | Vite
-
-**Backend & API Development**
-- Node.js | Express.js | RESTful APIs
-
-**Databases & Cloud Storage**
-- PostgreSQL | Supabase | Firebase
-
-**Development & Version Control**
-- Git | GitHub | Visual Studio Code
-
-**Emerging Technologies & Core Interests**
-- Artificial Intelligence & Machine Learning
-- AI-Powered Application Integration
-- Cloud Deployment & Infrastructure
-- Real-Time Communication Systems
-- Scalable Software Architecture
-
-## 🧠 Engineering Philosophy
-
-I believe great software engineering goes beyond writing code. It is about understanding problems, designing effective solutions, building maintainable systems, and continuously improving through experimentation and feedback.
-
-My engineering principles include:
-
-- Writing clean, readable, and maintainable code.
-- Prioritizing performance and scalability.
-- Following structured development practices.
-- Building solutions around real-world problems.
-- Learning continuously and adapting to emerging technologies.
-- Collaborating, sharing knowledge, and contributing to the developer community.
-
-## 🌱 Current Focus
-
-- Strengthening problem-solving skills through Data Structures & Algorithms.
-- Building production-oriented full-stack applications.
-- Exploring practical applications of Artificial Intelligence and Machine Learning.
-- Improving backend architecture, API design, and database optimization.
-- Understanding scalable system design and modern software engineering practices.
-- Developing impactful projects that demonstrate practical engineering skills.
-
-## 🤝 Let's Connect & Collaborate
-
-I am always interested in connecting with developers, exploring innovative ideas, contributing to meaningful open-source projects, and collaborating on challenging engineering initiatives.
-
-**My objective is to grow as a software engineer by building innovative, scalable, and meaningful technology solutions that solve real-world problems and create lasting impact.**
-
+ 
+### 🤖 NoteWise AI — Chat With Your Documents
+An AI learning assistant that uses Retrieval-Augmented Generation (RAG) to turn static documents into interactive knowledge.
+ 
+- 📄 Supports PDF, DOCX, PPTX, TXT and XLSX
+- 💡 Ask questions in natural language and get context-aware answers
+- 🔍 Smart information extraction from long, complex files
 ---
-
-## 🌐 Socials
-
-<p align="left">
-<a href="https://www.linkedin.com/in/nikhlesh-rohilla-82000a381/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:rohillanikhlesh7@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+### 🍱 ShareBite — Reducing Food Waste Together
+A community platform connecting food donors, NGOs, volunteers and delivery partners to cut food waste and improve food access.
+ 
+- 🥗 Surplus food listing and donation management
+- 📍 Location-based discovery with interactive maps
+- 🤝 Volunteer and delivery coordination
+- ⏱️ Real-time distribution tracking
+---
+ 
+## 🛠️ Tech Stack
+ 
+**Languages**
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ 
+**Frontend & Mobile**
+ 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+ 
+**Backend & Databases**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+ 
+**AI / ML & Data**
+ 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+ 
+**Tools, Design & Deployment**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+ 
 ---
-
+ 
+## 💻 What I'm Exploring
+ 
+| Area | Focus |
+|------|-------|
+| **DSA** | Problem-solving, computational thinking, optimization |
+| **Full-Stack Development** | Complete, scalable web and mobile applications |
+| **AI & ML** | LLMs, RAG, predictive models, AI-powered apps |
+| **Databases** | Schema design, query optimization, data management |
+| **Cloud & Distributed Systems** | Deployment, scalability, infrastructure |
+| **System Design** | Maintainable, reliable software architecture |
+ 
+---
+ 
+## 🧠 Engineering Principles
+ 
+- ✨ Write clean, readable, maintainable code
+- ⚡ Prioritize performance and scalability
+- 🧱 Follow structured development practices
+- 🌍 Build around real-world problems
+- 📚 Keep learning and adapting
+- 🤝 Share knowledge and collaborate with the community
+---
+ 
+## 🤝 Let's Connect
+ 
+I'm always open to connecting with fellow developers, discussing ideas, contributing to open source, and collaborating on challenging projects.
+ 
+> **My goal:** to grow as a software engineer by building innovative, scalable technology that solves real problems and creates lasting impact.
+ 
+---
+ 
 ## 📊 GitHub Analytics
-
+ 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=rohillanikhlesh2510&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=rohillanikhlesh2510&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </p>
-
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=rohillanikhlesh2510&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rohillanikhlesh2510&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rohillanikhlesh2510&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rohillanikhlesh2510&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
-
----
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rohillanikhlesh2510&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rohillanikhlesh2510&icon=0&color=0" alt="Profile Views"/>
 </p>
-
 <p align="center">
-<b>💡 Code. Create. Innovate. Repeat.</b>
+  <b>💡 Code. Create. Innovate. Repeat.</b>
 </p>
+ 
