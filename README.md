@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Nikhlesh Rohilla 👋</h1>
+<h1 align="center">Nikhlesh Rohilla</h1>
  
 <p align="center">
-  <b>Computer Science & Engineering Student · Full-Stack Developer · AI/ML Enthusiast</b>
+  <b>Computer Science & Engineering Student | Full-Stack Developer | AI/ML Enthusiast</b>
 </p>
 <p align="center">
-  I build practical, scalable products — from social platforms to AI assistants — and I'm always learning something new.
+  Building scalable, user-centric software, from real-time social platforms to AI-powered applications.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhlesh-rohilla-82000a381/">
@@ -13,67 +13,83 @@
   <a href="mailto:rohillanikhlesh7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
- 
-## 💫 About Me
- 
-I'm a Computer Science & Engineering student who loves turning ideas into real, working products. I enjoy the full journey: designing clean UIs, building reliable backends, and adding AI-powered features that make apps genuinely useful.
- 
-- 🔭 Currently building production-oriented full-stack apps
-- 🧩 Sharpening my problem-solving with Data Structures & Algorithms
-- 🤖 Exploring practical uses of AI, LLMs and RAG
-- 🏗️ Learning scalable system design and backend architecture
+  <a href="https://bharatgram.live">
+    <img src="https://img.shields.io/badge/BharatGram-Live-FF6B00?style=for-the-badge" alt="BharatGram"/>
+  </a>
+</p>
 ---
  
-## 🚀 Featured Projects
+## About
  
-### 🇮🇳 BharatGram
-> **India's own social media platform** — people, content and communities, all in one connected space.
+I am a Computer Science and Engineering student with a strong interest in software engineering and full-stack development. I enjoy turning ideas into dependable products, covering interface design, backend architecture, and the integration of AI-powered capabilities.
  
-BharatGram is a full-featured social networking ecosystem built for creators and communities. It combines everything people expect from a modern social app — feeds, reels, chat, calls and live streams — in a single, fast and scalable experience.
+My work focuses on solving real-world problems through clean, maintainable code and scalable system design.
  
-| | |
+**Current focus**
+ 
+- Building production-oriented full-stack applications
+- Strengthening problem-solving skills through Data Structures and Algorithms
+- Applying AI, LLMs and Retrieval-Augmented Generation (RAG) in practical products
+- Improving backend architecture, API design and database optimization
+- Learning scalable system design and modern engineering practices
+---
+ 
+## Featured Projects
+ 
+### BharatGram | Social Networking Platform
+*India's own social media platform, bringing people, content and communities together.*
+ 
+A full-featured social networking ecosystem designed for creators and communities, combining content sharing, communication and live engagement in a single scalable platform.
+ 
+| Capability | Description |
 |---|---|
-| 📰 **Social Feeds** — dynamic feeds and content sharing | 🎬 **Reels** — short-form video experience |
-| 💬 **Messaging** — real-time chat and notifications | 📞 **Calling** — voice and video calls |
-| 🔴 **Live Streaming** — interactive live sessions | 🔥 **Trending** — discover popular content and communities |
-| 🤖 **AI Assistance** — smart, AI-powered experiences | ⚡ **Built for scale** — performance and engagement first |
+| **Social Feeds** | Dynamic feeds and content sharing |
+| **Reels** | Short-form video experience |
+| **Messaging** | Real-time chat and notifications |
+| **Calling** | Voice and video calling |
+| **Live Streaming** | Interactive live sessions |
+| **Trending** | Discovery of popular content and communities |
+| **AI Assistance** | AI-powered user experiences |
  
-🌐 **Live:** [bharatgram.live](https://bharatgram.live)
+**Live:** [bharatgram.live](https://bharatgram.live)
  
 ---
  
-### 🤖 NoteWise AI
-> **Chat with your documents** — turn static files into interactive knowledge.
+### NoteWise AI | AI Document & Learning Assistant
+*Transforming static documents into interactive knowledge.*
  
-NoteWise AI is an intelligent learning and productivity assistant powered by **Retrieval-Augmented Generation (RAG)**. Upload a document, ask questions in plain language, and get accurate, context-aware answers instead of scrolling through pages.
+An intelligent learning and productivity platform built on Retrieval-Augmented Generation (RAG). Users can query their documents in natural language and receive accurate, context-aware answers.
  
-| | |
+| Capability | Description |
 |---|---|
-| 📄 **Multi-format support** — PDF, DOCX, PPTX, TXT, XLSX | 💬 **Natural conversations** — ask questions like you'd ask a person |
-| 🎯 **Context-aware answers** — grounded in your document | 🔍 **Smart extraction** — pull out key information fast |
+| **Multi-format Support** | PDF, DOCX, PPTX, TXT and XLSX |
+| **Conversational Q&A** | Natural-language questions over document content |
+| **Context-aware Answers** | Responses grounded in the uploaded document |
+| **Information Extraction** | Fast retrieval of key details from complex files |
  
-**Why it matters:** complex information becomes easier to search, understand and act on.
+**Impact:** makes complex information easier to search, understand and act on.
  
 ---
  
-### 🍱 [ShareBite](https://sharebite-final.vercel.app/)
-> **Share food, not waste** — connecting surplus food with people who need it.
+### [ShareBite](https://sharebite-final.vercel.app/) | Food Sharing & Redistribution Platform
+*Connecting surplus food with the people who need it.*
  
-ShareBite is a community-driven platform that brings together food donors, recipients, NGOs, volunteers and delivery partners to reduce food waste and improve food accessibility.
+A community-driven platform that connects food donors, recipients, NGOs, volunteers and delivery partners to reduce food waste and improve food accessibility.
  
-| | |
+| Capability | Description |
 |---|---|
-| 🥗 **Donations** — surplus food listing and management | 📍 **Discovery** — find food and nearby NGOs on interactive maps |
-| 🤝 **Volunteers** — coordination of volunteers and delivery partners | ⏱️ **Real-time tracking** — live distribution management |
+| **Donation Management** | Surplus food listing and management |
+| **Location-based Discovery** | Interactive maps and nearby NGO connectivity |
+| **Volunteer Coordination** | Volunteer and delivery partner management |
+| **Real-time Tracking** | Live distribution management |
  
-**Why it matters:** encourages sustainable habits and community participation while helping fight hunger.
+**Impact:** promotes sustainable practices and community participation in reducing food waste and hunger.
  
-🌐 **Live:** [sharebite-final.vercel.app](https://sharebite-final.vercel.app/)
+**Live:** [sharebite-final.vercel.app](https://sharebite-final.vercel.app/)
  
 ---
  
-## 🛠️ Tech Stack
+## Technical Skills
  
 **Languages**
  
@@ -124,38 +140,38 @@ ShareBite is a community-driven platform that brings together food donors, recip
  
 ---
  
-## 💻 What I'm Exploring
+## Areas of Expertise
  
 | Area | Focus |
-|------|-------|
-| **DSA** | Problem-solving, computational thinking, optimization |
+|---|---|
+| **Data Structures & Algorithms** | Problem-solving, computational thinking, optimization |
 | **Full-Stack Development** | Complete, scalable web and mobile applications |
-| **AI & ML** | LLMs, RAG, predictive models, AI-powered apps |
-| **Databases** | Schema design, query optimization, data management |
+| **Artificial Intelligence & ML** | LLMs, RAG, predictive models, AI-powered applications |
+| **Database Engineering** | Schema design, query optimization, data management |
 | **Cloud & Distributed Systems** | Deployment, scalability, infrastructure |
-| **System Design** | Maintainable, reliable software architecture |
+| **Software Architecture** | Maintainable, reliable, scalable system design |
  
 ---
  
-## 🧠 Engineering Principles
+## Engineering Principles
  
-- ✨ Write clean, readable, maintainable code
-- ⚡ Prioritize performance and scalability
-- 🧱 Follow structured development practices
-- 🌍 Build around real-world problems
-- 📚 Keep learning and adapting
-- 🤝 Share knowledge and collaborate with the community
+- Write clean, readable and maintainable code
+- Prioritize performance and scalability
+- Follow structured development practices
+- Build solutions around real-world problems
+- Learn continuously and adapt to emerging technologies
+- Share knowledge and contribute to the developer community
 ---
  
-## 🤝 Let's Connect
+## Collaboration
  
-I'm always open to connecting with fellow developers, discussing ideas, contributing to open source, and collaborating on challenging projects.
+I welcome opportunities to connect with developers, discuss ideas, contribute to open-source projects and collaborate on challenging engineering work.
  
-> **My goal:** to grow as a software engineer by building innovative, scalable technology that solves real problems and creates lasting impact.
+> **Objective:** to grow as a software engineer by building innovative, scalable technology that solves real problems and creates lasting impact.
  
 ---
  
-## 📊 GitHub Analytics
+## GitHub Analytics
  
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=rohillanikhlesh2510&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
@@ -170,6 +186,6 @@ I'm always open to connecting with fellow developers, discussing ideas, contribu
   <img src="https://komarev.com/ghpvc/?username=rohillanikhlesh2510&icon=0&color=0" alt="Profile Views"/>
 </p>
 <p align="center">
-  <b>💡 Code. Create. Innovate. Repeat.</b>
+  <b>Code. Create. Innovate. Repeat.</b>
 </p>
  
