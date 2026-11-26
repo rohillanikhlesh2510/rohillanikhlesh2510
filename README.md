@@ -13,11 +13,7 @@
   <a href="mailto:rohillanikhlesh7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://bharatgram.live">
-    <img src="https://img.shields.io/badge/BharatGram-Live-FF6B00?style=for-the-badge" alt="BharatGram"/>
-  </a>
-</p>
----
+  
  
 ## 💫 About Me
  
