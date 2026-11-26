@@ -61,7 +61,7 @@ NoteWise AI is an intelligent learning and productivity assistant powered by **R
  
 ---
  
-### 🍱 ShareBite
+### 🍱 [ShareBite](https://sharebite-final.vercel.app/)
 > **Share food, not waste** — connecting surplus food with people who need it.
  
 ShareBite is a community-driven platform that brings together food donors, recipients, NGOs, volunteers and delivery partners to reduce food waste and improve food accessibility.
@@ -72,6 +72,8 @@ ShareBite is a community-driven platform that brings together food donors, recip
 | 🤝 **Volunteers** — coordination of volunteers and delivery partners | ⏱️ **Real-time tracking** — live distribution management |
  
 **Why it matters:** encourages sustainable habits and community participation while helping fight hunger.
+ 
+🌐 **Live:** [sharebite-final.vercel.app](https://sharebite-final.vercel.app/)
  
 ---
  
