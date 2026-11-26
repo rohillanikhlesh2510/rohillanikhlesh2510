@@ -31,34 +31,48 @@ I'm a Computer Science & Engineering student who loves turning ideas into real, 
  
 ## 🚀 Featured Projects
  
-### 🇮🇳 [BharatGram](https://bharatgram.live) — India's Own Social Media Platform
-A feature-rich social network that brings people, content and communities together in one place.
+### 🇮🇳 BharatGram
+> **India's own social media platform** — people, content and communities, all in one connected space.
  
-- 📰 Dynamic feeds and content sharing
-- 🎬 Short-form videos and reels
-- 💬 Real-time messaging and notifications
-- 📞 Voice and video calling
-- 🔴 Interactive live streaming
-- 🤖 AI-powered assistance
+BharatGram is a full-featured social networking ecosystem built for creators and communities. It combines everything people expect from a modern social app — feeds, reels, chat, calls and live streams — in a single, fast and scalable experience.
+ 
+| | |
+|---|---|
+| 📰 **Social Feeds** — dynamic feeds and content sharing | 🎬 **Reels** — short-form video experience |
+| 💬 **Messaging** — real-time chat and notifications | 📞 **Calling** — voice and video calls |
+| 🔴 **Live Streaming** — interactive live sessions | 🔥 **Trending** — discover popular content and communities |
+| 🤖 **AI Assistance** — smart, AI-powered experiences | ⚡ **Built for scale** — performance and engagement first |
+ 
 🌐 **Live:** [bharatgram.live](https://bharatgram.live)
  
 ---
  
-### 🤖 NoteWise AI — Chat With Your Documents
-An AI learning assistant that uses Retrieval-Augmented Generation (RAG) to turn static documents into interactive knowledge.
+### 🤖 NoteWise AI
+> **Chat with your documents** — turn static files into interactive knowledge.
  
-- 📄 Supports PDF, DOCX, PPTX, TXT and XLSX
-- 💡 Ask questions in natural language and get context-aware answers
-- 🔍 Smart information extraction from long, complex files
+NoteWise AI is an intelligent learning and productivity assistant powered by **Retrieval-Augmented Generation (RAG)**. Upload a document, ask questions in plain language, and get accurate, context-aware answers instead of scrolling through pages.
+ 
+| | |
+|---|---|
+| 📄 **Multi-format support** — PDF, DOCX, PPTX, TXT, XLSX | 💬 **Natural conversations** — ask questions like you'd ask a person |
+| 🎯 **Context-aware answers** — grounded in your document | 🔍 **Smart extraction** — pull out key information fast |
+ 
+**Why it matters:** complex information becomes easier to search, understand and act on.
+ 
 ---
  
-### 🍱 ShareBite — Reducing Food Waste Together
-A community platform connecting food donors, NGOs, volunteers and delivery partners to cut food waste and improve food access.
+### 🍱 ShareBite
+> **Share food, not waste** — connecting surplus food with people who need it.
  
-- 🥗 Surplus food listing and donation management
-- 📍 Location-based discovery with interactive maps
-- 🤝 Volunteer and delivery coordination
-- ⏱️ Real-time distribution tracking
+ShareBite is a community-driven platform that brings together food donors, recipients, NGOs, volunteers and delivery partners to reduce food waste and improve food accessibility.
+ 
+| | |
+|---|---|
+| 🥗 **Donations** — surplus food listing and management | 📍 **Discovery** — find food and nearby NGOs on interactive maps |
+| 🤝 **Volunteers** — coordination of volunteers and delivery partners | ⏱️ **Real-time tracking** — live distribution management |
+ 
+**Why it matters:** encourages sustainable habits and community participation while helping fight hunger.
+ 
 ---
  
 ## 🛠️ Tech Stack
