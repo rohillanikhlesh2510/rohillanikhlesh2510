@@ -1,242 +1,219 @@
-# NIKHLESH ROHILLA
+# 👨‍💻 Nikhlesh Rohilla
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:EA580C&height=230&section=header&text=Nikhlesh%20Rohilla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=17" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:090D18,35:172554,70:312E81,100:0891B2&text=NIKHLESH%20ROHILLA&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%2FML&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
+<p align="center">
+  <strong>Computer Science & Engineering Student | Full-Stack Developer | AI/ML Enthusiast</strong>
+</p>
 
-<br/>
+<p align="center">
+  Building scalable software products, intelligent applications, and technology-driven solutions to real-world problems.
+</p>
 
-### Engineering ideas into real-world products.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhlesh-rohilla-82000a381/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohillanikhlesh7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bharatgram.live"><img src="https://img.shields.io/badge/BharatGram-Live-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
-Building scalable applications, intelligent systems, and meaningful digital experiences.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/nikhlesh-rohilla-82000a381/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:rohillanikhlesh7@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://bharatgram.live">
-<img src="https://img.shields.io/badge/PORTFOLIO-BHARATGRAM-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Digital+Products;Exploring+LLMs+%26+Intelligent+Systems;Always+Learning.+Always+Building." />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Full-Stack+Development;Artificial+Intelligence+%26+Machine+Learning;Building+Real-World+Products;Learning+%7C+Building+%7C+Innovating" />
+</p>
 
 ---
 
-## ◈ ABOUT ME
+## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering student** interested in software engineering, full-stack development, and artificial intelligence.
+I am a **Computer Science and Engineering student** passionate about software engineering, full-stack development, and artificial intelligence.
 
-I enjoy building real-world applications that combine intuitive interfaces, reliable backend architectures, efficient databases, and intelligent AI-powered capabilities.
+I enjoy transforming ideas into practical software products through problem-solving, modern technologies, and thoughtful engineering.
 
-My approach to development revolves around understanding problems, engineering practical solutions, and continuously improving the quality of what I build.
+My interests span the entire development lifecycle — from designing intuitive user interfaces and building robust backend systems to integrating AI-powered capabilities.
 
-```javascript
-const developer = {
-    name: "Nikhlesh Rohilla",
-    role: "Full-Stack Developer",
-    interests: [
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "System Design",
-        "Problem Solving"
-    ],
-    currentlyBuilding: [
-        "BharatGram",
-        "NoteWise AI"
-    ],
-    mindset: "Build. Learn. Improve. Repeat."
-};
-```
+### 🎯 Current Focus
 
-### CURRENTLY EXPLORING
-
-- Advanced Data Structures & Algorithms
-- Full-Stack and Mobile Application Development
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models and AI Integration
-- Database Engineering and System Design
-- Cloud Infrastructure and Deployment
+- 🚀 Building production-oriented full-stack web and mobile applications.
+- 🧠 Strengthening Data Structures and Algorithms.
+- 🤖 Exploring AI, Machine Learning, LLMs, and RAG.
+- 🗄️ Designing efficient backend architectures and databases.
+- ☁️ Learning cloud technologies and scalable system design.
 
 ---
 
-## ◈ SELECTED PROJECTS
+## 🚀 Featured Projects
 
-### 🟠 01 / BHARATGRAM
+### 🟠 01. BharatGram — Social Networking Platform
+
+<p>
+  <a href="https://bharatgram.live">
+    <img src="https://img.shields.io/badge/🌐_Explore_BharatGram-Live-FF6B00?style=for-the-badge" />
+  </a>
+</p>
 
 **India Connects Here.**
 
-<a href="https://bharatgram.live">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE_APPLICATION-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+A social networking platform designed to bring people, creators, and communities together through content sharing, real-time communication, and interactive digital experiences.
 
-A social networking platform bringing people, creators, and communities together through content sharing and real-time digital experiences.
+| Feature | Description |
+|---|---|
+| Social Feed | Content creation and sharing |
+| Reels | Short-form video experiences |
+| Messaging | Real-time communication |
+| Voice & Video Calls | Integrated communication |
+| Live Streaming | Interactive live sessions |
+| BharatBeats | Music and audio experiences |
+| AI Integration | AI-powered experiences |
 
-**Core Engineering**
+**Tech Stack**
 
-| Component | Implementation |
-|:---|:---|
-| Social Experience | Posts, Feed & Reels |
-| Communication | Messaging, Voice & Video Calls |
-| Live Features | Live Streaming |
-| Media | BharatBeats |
-| Intelligence | AI-powered features |
-
-**Technology**
-
-`React.js` `Vite` `Node.js` `Express.js` `PostgreSQL` `Supabase` `Agora SDK`
+`React.js` `Vite` `Node.js` `Express.js` `PostgreSQL` `Supabase` `Agora SDK` `Vercel` `Render`
 
 ---
 
-### 🟣 02 / NOTEWISE AI
+### 🟣 02. NoteWise AI — Intelligent Document Assistant
 
 **Turning documents into interactive knowledge.**
 
-An intelligent document assistant powered by Retrieval-Augmented Generation (RAG), designed to help users understand and retrieve information from their documents through natural language.
+An AI-powered document assistant built around Retrieval-Augmented Generation (RAG), enabling users to interact with their documents through natural language.
 
-**Core Engineering**
+| Feature | Description |
+|---|---|
+| Multi-format Support | PDF, DOCX, PPTX, TXT, XLSX |
+| Document Q&A | Ask questions in natural language |
+| Contextual Retrieval | Retrieve relevant document information |
+| AI Responses | Context-aware answers |
+| Knowledge Extraction | Simplified document analysis |
 
-| Component | Implementation |
-|:---|:---|
-| Document Processing | PDF, DOCX, PPTX, TXT, XLSX |
-| Information Retrieval | Contextual Retrieval |
-| AI Integration | LLM-powered Q&A |
-| Knowledge Extraction | Document Understanding |
-| Architecture | Retrieval-Augmented Generation |
+**Tech Stack**
 
-**Technology**
-
-`Python` `LLMs` `RAG` `AI/ML` `Vector Search` `Document Processing`
+`Python` `AI/ML` `LLMs` `RAG` `Document Processing` `Vector Search`
 
 ---
 
-### 🟢 03 / SHAREBITE
+### 🟢 03. ShareBite — Food Sharing & Redistribution Platform
 
-**Reducing food waste. Connecting communities.**
+<p>
+  <a href="https://sharebite-final.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Explore_ShareBite-Live-16A34A?style=for-the-badge" />
+  </a>
+</p>
 
-<a href="https://sharebite-final.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_LIVE_APPLICATION-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+**Reducing food waste. Connecting communities. Creating impact.**
 
-A community-driven food redistribution platform connecting donors, NGOs, volunteers, and delivery partners to make surplus food accessible to people in need.
+A community-driven food redistribution platform connecting food donors, NGOs, volunteers, recipients, and delivery partners.
 
-**Core Engineering**
+| Feature | Description |
+|---|---|
+| Food Donations | Surplus food listing and management |
+| Location Discovery | Nearby NGO and food discovery |
+| Interactive Maps | Location-based coordination |
+| Volunteer Management | Volunteer and delivery coordination |
+| Real-time Tracking | Food distribution monitoring |
 
-| Component | Implementation |
-|:---|:---|
-| Food Management | Surplus Food Donations |
-| Discovery | Location-based NGO Discovery |
-| Maps | Interactive Location Mapping |
-| Coordination | Volunteer Management |
-| Tracking | Distribution Monitoring |
-
-**Technology**
+**Tech Stack**
 
 `React Native` `JavaScript` `Supabase` `PostgreSQL` `Maps Integration`
 
 ---
 
-## ◈ TECHNOLOGY ARSENAL
+## ⚡ Technical Skills
 
-<div align="center">
+### Programming Languages
 
-### PROGRAMMING LANGUAGES
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css&theme=dark"/>
+### Frontend & Mobile Development
 
-### FRONTEND & MOBILE
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter,expo" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,reactnative,expo&theme=dark"/>
+### Backend & Database
 
-### BACKEND & DATABASE
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,supabase,firebase" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,supabase,firebase&theme=dark"/>
+### AI / ML & Data Science
 
-### AI / ML & DATA SCIENCE
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
+### Tools & Deployment
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-
-### TOOLS & INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,render&theme=dark"/>
-
-</div>
-
----
-
-## ◈ ENGINEERING INTERESTS
-
-| Area | Focus |
-|:---|:---|
-| Software Engineering | Clean Code & Maintainable Systems |
-| Full-Stack Development | End-to-End Application Engineering |
-| AI / ML | Intelligent Applications & RAG |
-| Database Engineering | SQL, Schema Design & Optimization |
-| System Design | Scalable Architecture |
-| Cloud Computing | Deployment & Infrastructure |
-| DSA | Algorithmic Thinking & Optimization |
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,vercel,netlify,render" />
+</p>
 
 ---
 
-## ◈ GITHUB ANALYTICS
+## 🧩 Core Competencies
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohillanikhlesh2510&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=rohillanikhlesh2510&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohillanikhlesh2510&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohillanikhlesh2510&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rohillanikhlesh2510&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
-
-</div>
+| Domain | Expertise |
+|---|---|
+| Data Structures & Algorithms | Problem-solving, optimization |
+| Full-Stack Engineering | Frontend, backend, APIs |
+| Artificial Intelligence | ML, LLMs, RAG |
+| Database Engineering | Schema design, SQL |
+| Cloud Technologies | Deployment, infrastructure |
+| Software Architecture | Scalable system design |
+| Real-time Systems | Communication, notifications |
 
 ---
 
-## ◈ LET'S BUILD SOMETHING MEANINGFUL
+## 🏆 Engineering Philosophy
 
-I'm always interested in connecting with developers, exchanging ideas, exploring innovative technologies, and collaborating on challenging engineering projects.
+- **Clean Code:** Readable, maintainable, reusable code.
+- **Scalability:** Designing applications for long-term growth.
+- **Problem Solving:** Practical solutions to real-world challenges.
+- **Performance:** Building efficient applications.
+- **Continuous Learning:** Exploring emerging technologies.
+- **Collaboration:** Teamwork and knowledge sharing.
 
-Whether it's software development, AI innovation, or building products that solve real-world problems — let's connect.
+---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-<a href="https://www.linkedin.com/in/nikhlesh-rohilla-82000a381/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohillanikhlesh2510&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=rohillanikhlesh2510&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="mailto:rohillanikhlesh7@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohillanikhlesh2510&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohillanikhlesh2510&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:090D18&height=130&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohillanikhlesh2510&style=for-the-badge&color=6366F1" />
+</p>
 
-### CODE WITH PURPOSE. ENGINEER WITH PRECISION.
+---
 
-*Building today. Engineering tomorrow.*
+## 🤝 Let's Connect
 
-</div>
+I am always interested in connecting with developers, exploring innovative ideas, contributing to open-source projects, and collaborating on challenging engineering initiatives.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhlesh-rohilla-82000a381/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohillanikhlesh7@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,50:312E81,100:0F172A&height=130&section=footer" width="100%" />
+</p>
+
+<h3 align="center">⚡ Code. Create. Engineer. Innovate.</h3>
+<p align="center"><i>Building today. Engineering tomorrow.</i></p>
